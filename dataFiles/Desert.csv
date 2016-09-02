@@ -1,0 +1,72 @@
+Cat,1:4:0,10,0
+Commoner,1:8:0,10,0
+Hyena,1:8:1,10,0
+Jackal,1:6:0,10,0
+Scorpion,1:4:-1,10,0
+Vulture,1:8:1,10,0
+Bandit,2:8:2,25,0
+Camel,2:10:4,25,0
+Flying Snake,2:4:0,25,0
+Guard,2:8:2,25,0
+Kobold,2:6:-2,25,0
+Mule,2:8:2,25,0
+Poisonous Snake,1:4:0,25,0
+Stirge,1:4:0,25,0
+Tribal Warrior,2:8:2,25,0
+Constrictor Snake,2:10:2,50,0
+Giant Lizard,3:10:3,50,0
+Giant Poisonous Snake,2:8:2,50,0
+Giant Wolf Spider,2:8:2,50,0
+Pseudodragon,2:4:2,50,0
+Winged Kobold,3:6:-3,50,0
+Dust Mephit,5:6:0,100,1
+Gnoll,5:8:0,100,1
+Hobgoblin,2:8:2,100,1
+Jackalwere,4:8:0,100,1
+Scout,3:8:3,100,1
+Swarm of Insects,5:8:0,100,1
+Death Dog,6:8:12,200,1
+Giant Hyena,6:10:12,200,1
+Giant Spider,4:10:4,200,1
+Giant Toad,6:10:6,200,1
+Giant Vulture,2:10:6,200,1
+Half-Ogre,4:10:8,200,1
+Lion,4:10:4,200,1
+Thri-kreen,6:8:6,200,1
+Yuan-ti Pureblood,9:8:0,200,1
+Bandit Captian,10:8:20,450,2
+Berserker,9:8:27,450,2
+Druid,5:8:5,450,2
+Giant Constrictor Snake,8:12:8,450,2
+Gnoll Pack Lord,9:8:9,450,2
+Ogre,7:10:21,450,2
+Giant Scorpion,7:10:14,700,3
+Hobgoblin Captain,6:8:12,700,3
+Mummy,9:8:18,700,3
+Phase Spider,5:10:5,700,3
+Wight,6:8:18,700,3
+Yuan-ti Malison,12:8:12,700,3
+Couatl,13:8:39,1100,4
+Gnoll Fang of Yeenoghu,10:8:20,1100,4
+Lamia,13:10:26,1100,4
+Weretiger,16:8:48,1100,4
+Air Elemental,12:10:24,1800,5
+Fire Elemental,12:10:36,1800,5
+Revenant,16:8:64,1800,5
+Cyclops,12:12:60,2300,6
+Medusa,17:8:51,2300,6
+Young Brass Dragon,13:10:39,2300,6
+Yuan-ti Abomination,15:10:45,2900,7
+Young Blue Dragon,16:10:64,5000,9
+Guardian Naga,15:10:45,5900,10
+Efreeti,16:10:112,7200,11
+Gynosphinx,16:10:48,7200,11
+Roc,16:20:80,7200,11
+Adult Brass Dragon,15:12:75,10000,13
+Mummy Lord,13:8:39,13000,15
+Purple Worm,15:20:90,13000,15
+Adult Blue Dragon,18:12:108,15000,16
+Adult Blue Dracolich,18:12:108,18000,17
+Androsphinx,19:10:95,18000,17
+Ancient Brass Dragon,17:20:119,24500,20
+Ancient Blue Dragon,26:20:208,32500,23

@@ -1,0 +1,46 @@
+Rat,1:4:-1,10,0
+Raven,1:4:-1,10,0
+Giant Rat,2:6:0,25,0
+Kobold,2:6:-2,25,0
+Poisonous Snake,1:4:0,25,0
+Stirge,1:4:0,25,0
+Tribal Warrior,2:8:2,25,0
+Bullywug,2:8:2,50,0
+Constrictor Snake,2:10:2,50,0
+Giant Frog,4:8:0,50,0
+Giant Lizard,3:10:3,50,0
+Giant Poisonous Snake,2:8:2,50,0
+Mud Mephit,6:6:6,50,0
+Swarm of Rats,7:8:-7,50,0
+Swarm of Ravens,7:8:-7,50,0
+Winged Kobold,3:6:-3,50,0
+Crocodile,3:10:3,100,1
+Lizardfolk,4:8:4,100,1
+Orc,2:8:6,100,1
+Scout,3:8:3,100,1
+Swarm of Insects,5:8:0,100,1
+Ghoul,5:8:0,200,1
+Giant Spider,4:10:4,200,1
+Giant Toad,6:10:6,200,1
+Yuan-ti Pureblood,9:8:0,200,1
+Druid,5:8:5,450,2
+Ghast,8:8:0,450,2
+Giant Constrictor Snake,8:12:8,450,2
+Lizardfolk Shaman,5:8:5,450,2
+Ogre,7:10:21,450,2
+Orc Eye of Gruumsh,6:8:18,450,2
+Swarm of Poisonous Snakes,8:8:0,450,2
+Will-o'-wisp,9:4:0,450,2
+Green Hag,11:8:33,700,3
+Wight,6:8:18,700,3
+Yuan-ti Malison,12:8:12,700,3
+Giant Crocodile,9:12:27,1800,5
+Revenant,16:8:64,1800,5
+Shambling Mound,16:10:48,1800,5
+Troll,8:10:40,1800,5
+Water Elemental,12:10:48,1800,5
+Young Black Dragon,15:10:45,2900,7
+Yuan-ti Abomination,15:10:45,2900,7
+Hydra,15:12:75,3900,8
+Adult Black Dragon,17:12:85,11500,14
+Ancient Black Dragon,21:20:147,27500,21

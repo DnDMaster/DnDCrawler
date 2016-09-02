@@ -1,0 +1,52 @@
+Eagle,1:6:0,10,0
+Goat,1:8:0,10,0
+Blood hawk,2:6:0,25,0
+Guard,2:8:2,25,0
+Kobold,2:6:-2,25,0
+Stirge,1:4:0,25,0
+Tribal Warrior,2:8:2,25,0
+Aarakocra,3:8:0,50,0
+Pseudodragon,2:4:2,50,0
+Pteranodon,3:8:0,50,0
+Swarm of Bats,5:8:0,50,0
+Winged Kobold,3:6:-3,50,0
+Giant Goat,3:10:3,100,0
+Orc,2:8:6,100,1
+Scout,3:8:3,100,1
+Giant Eagle,4:10:4,200,1
+Half-Ogre,4:10:8,200,1
+Harpy,7:8:7,200,1
+Hippogriff,3:10:3,200,1
+Lion,4:10:4,200,1
+Berserker,9:8:27,450,2
+Druid,5:8:5,450,2
+Giant Elk,5:12:10,450,2
+Griffon,7:10:21,450,2
+Ogre,7:10:21,450,2
+Orc Eye of Gruumsh,6:8:18,450,2
+Orog,5:8:20,450,2
+Peryton,6:8:6,450,2
+Saber-Toothed Tiger,7:10:14,450,2
+Basilisk,8:8:16,700,3
+Hell Hound,7:8:14,700,3
+Manticore,8:10:24,700,3
+Veteran,9:8:18,700,3
+Ettin,10:10:30,1100,4
+Air Elemental,12:10:24,1800,5
+Bulette,9:10:45,1800,5
+Troll,8:10:40,1800,5
+Chimera,12:10:48,2300,6
+Cyclops,12:12:60,2300,6
+Galeb Duhr,9:8:45,2300,6
+Wyvern,13:10:39,2300,6
+Stone Giant,11:12:55,2900,7
+Frost Giant,12:12:60,3900,8
+Cloud Giant,16:12:96,5000,9
+Fire Giant,13:12:78,5000,9
+Young Silver Dragon,16:10:80,5000,9
+Young Red Dragon,17:10:85,5900,10
+Roc,16:20:80,7200,11
+Adult Silver Dragon,18:12:126,15000,16
+Adult Red Dragon,19:12:133,18000,17
+Ancient Silver Dragon,25:20:225,32500,23
+Ancient Red Dragon,28:20:252,36500,24

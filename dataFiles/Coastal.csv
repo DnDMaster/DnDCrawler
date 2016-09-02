@@ -1,0 +1,48 @@
+Commoner,1:8:0,10,0
+Crab,1:4:0,10,0
+Eagle,1:6:0,10,0
+Bandit,2:8:2,25,0
+Blood Hawk,2:6:0,25,0
+Giant Crab,3:8:0,25,0
+Guard,2:8:2,25,0
+Kobold,2:6:-2,25,0
+Merfolk,2:8:2,25,0
+Poisonous Snake,1:4:0,25,0
+Stirge,1:4:0,25,0
+Tribal Warrior,2:8:2,25,0
+Giant Lizard,3:10:3,50,0
+Giant Wolf Spider,2:8:2,50,0
+Pseudodragon,2:4:2,50,0
+Pteranodon,3:8:0,50,0
+Winged Kobold,3:6:-3,50,0
+Sahuagin,4:8:4,100,1
+Scout,3:8:3,100,1
+Giant Eagle,4:10:4,200,1
+Giant Toad,6:10:6,200,1
+Harpy,7:8:7,200,1
+Bandit Captain,10:8:20,450,2
+Berserker,9:8:20,450,2
+Druid,5:8:5,450,2
+Griffon,7:10:21,450,2
+Ogre,7:10:21,450,2
+Merrow,6:10:12,450,2
+Plesiosaurus,8:10:24,450,2
+Sahuagin Priestess,6:8:6,450,2
+Sea Hag,7:8:21,450,2
+Manticore,8:10:24,700,3
+Veteran,9:8:18,700,3
+Banshee,13:8:0,1100,4
+Sahuagin Baron,9:10:27,1800,5
+Water Elemental,12:10:48,1800,5
+Cyclops,12:12:60,2300,6
+Young Bronze Dragon,15:10:60,3900,8
+Young Blue Dragon,16:10:64,5000,9
+Djinni,14:10:84,7200,11
+Marid,17:10:136,7200,11
+Roc,16:20:80,7200,11
+Storm Giant,20:12:100,10000,13
+Adult Bronze Dragon,17:12:102,13000,15
+Adult Blue Dragon,18:12:108,15000,16
+Dragon Turtle,22:20:110,18000,17
+Ancient Bronze Dragon,24:20:192,30000,22
+Ancient Blue Dragon,26:20:208,32500,23

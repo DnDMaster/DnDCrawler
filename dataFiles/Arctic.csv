@@ -1,0 +1,38 @@
+Commoner,1:8:0,10,0
+Owl,1:4:-1,25,0
+Bandit,2:8:2,25,0
+Blood hawk,2:6:0,25,0
+Kobold,2:6:-2,25,0
+Tribal Warrior,2:8:2,25,0
+Giant Owl,3:10:3,50,0
+Winged Kobold,3:6:-3,50,0
+Ice Mephit,6:6:0,100,1
+Orc,2:8:6,100,1
+Scout,3:8:3,100,1
+Brown Bear,4:10:12,200,1
+Half-Ogre,4:10:8,200,1
+Bandit Captian,10:8:20,450,2
+Berserker,9:8:27,450,2
+Druid,5:8:5,450,2
+Griffon,7:10:21,450,2
+Ogre,7:10:21,450,2
+Orc Eye of Gruumsh,6:8:18,450,2
+Orog,5:8:20,450,2
+Polar Bear,5:10:15,450,2
+Saber-Toothed Tiger,7:10:14,450,2
+Manticore,8:10:24,700,3
+Veteran,9:8:18,700,3
+Winter Wolf,10:10:20,700,3
+Yeti,6:10:18,700,3
+Revenant,16:8:64,1800,5
+Troll,8:10:40,1800,5
+Werebear,18:8:54,1800,5
+Young Remorhaz,11:10:33,1800,5
+Mammoth,11:12:55,2300,6
+Young White Dragon,14:10:56,2300,6
+Frost Giant,12:12:60,3900,8
+Abominable Yeti,11:12:66,5000,9
+Remorhaz,17:12:85,7200,11
+Roc,16:20:80,7200,11
+Adult White Dragon,16:12:96,10000,13
+Ancient White Dragon,18:20:144,24500,20

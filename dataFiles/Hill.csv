@@ -1,0 +1,84 @@
+Baboon,1:6:0,10,0
+Commoner,1:8:0,10,0
+Eagle,1:6:0,10,0
+Goat,1:8:0,10,0
+Hyena,1:8:1,10,0
+Raven,1:4:-1,10,0
+Vulture,1:8:1,10,0
+Bandit,2:8:2,25,0
+Blood hawk,2:6:0,25,0
+Giant Weasel,2:8:0,25,0
+Guard,2:8:2,25,0
+Kobold,2:6:-2,25,0
+Mastiff,1:8:1,25,0
+Mule,2:8:2,25,0
+Poisonous Snake,1:4:0,25,0
+Stirge,1:4:0,25,0
+Tribal Warrior,2:8:2,25,0
+Axe Beak,3:10:3,50,0
+Boar,2:8:2,50,0
+Elk,2:10:2,50,0
+Giant Owl,3:10:3,50,0
+Giant Wolf Spider,2:8:2,50,0
+Goblin,2:6:0,50,0
+Panther,3:8:0,50,0
+Pseudodragon,2:4:2,50,0
+Swarm of Bats,5:8:0,50,0
+Swarm of Ravens,7:8:-7,50,0
+Winged Kobold,3:6:-3,50,0
+Wolf,2:8:2,50,0
+Giant Goat,3:10:3,100,1
+Gnoll,5:8:0,100,1
+Hobgoblin,2:8:2,100,1
+Orc,2:8:6,100,1
+Scout,3:8:3,100,1
+Swarm of Insects,5:8:0,100,1
+Worg,4:10:4,100,1
+Brown Bear,4:10:12,200,1
+Dire Wolf,5:10:10,200,1
+Giant Eagle,4:10:4,200,1
+Giant Hyena,6:10:12,200,1
+Goblin Boss,6:6:0,200,1
+Half-Ogre,4:10:8,200,1
+Harpy,7:8:7,200,1
+Hippogriff,3:10:3,200,1
+Lion,4:10:4,200,1
+Bandit Captian,10:8:20,450,2
+Berserker,9:8:27,450,2
+Druid,5:8:5,450,2
+Giant Boar,5:10:15,450,2
+Giant Elk,5:12:10,450,2
+Gnoll Pack Lord,9:8:9,450,2
+Griffon,7:10:21,450,2
+Ogre,7:10:21,450,2
+Orc Eye of Gruumsh,6:8:18,450,2
+Orog,5:8:20,450,2
+Pegasus,7:10:21,450,2
+Peryton,6:8:6,450,2
+Green Hag,11:8:33,700,3
+Hobgoblin Captain,6:8:12,700,3
+Manticore,8:10:24,700,3
+Phase Spider,5:10:5,700,3
+Veteran,9:8:18,700,3
+Werewolf,9:8:18,700,3
+Ettin,10:10:30,1100,4
+Gnoll Fang of Yeenoghu,10:8:20,1100,4
+Wereboar,12:8:24,1100,4
+Bulette,9:10:45,1100,4
+Gorgon,12:10:48,1800,5
+Hill Giant,10:12:40,1800,5
+Revenant,16:8:64,1800,5
+Troll,8:10:40,1800,5
+Werebear,18:8:54,1800,5
+Chimera,12:10:48,2300,6
+Cyclops,12:12:60,2300,6
+Galeb Duhr,9:8:45,2300,6
+Wyvern,13:10:39,2300,6
+Stone Giant,11:12:55,2900,7
+Young Copper Dragon,14:10:42,2900,7
+Young Red Dragpn,17:10:85,5900,10
+Roc,16:20:80,7200,11
+Adult Copper Dragon,16:12:80,11500,14
+Adult Red Dragon,19:12:133,18000,17
+Ancient Copper Dragon,20:20:140,27500,21
+Ancient Red Dragon,28:20:252,36500,24

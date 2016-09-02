@@ -1,0 +1,111 @@
+Giant Fire Beetle,1:6:1,10,0
+Shrieker,3:8:0,10,0
+Myconid Sprout,2:6:0,10,0
+Flumph,2:6:0,25,0
+Giant Rat,2:6:0,25,0
+Kobold,2:6:-2,25,0
+Stirge,1:4:0,25,0
+Tribal Warrior,2:8:2,25,0
+Drow,3:8:0,50,0
+Giant Bat,4:10:0,50,0
+Giant Centipede,1:6:1,50,0
+Giant Lizard,3:10:3,50,0
+Giant Poisonous Snake,2:8:2,50,0
+Goblin,2:6:0,50,0
+Grimlock,2:8:2,50,0
+Kou-toa,4:8:0,50,0
+Swarm of Bats,5:8:0,50,0
+Troglodyte,2:8:4,50,0
+Violet Fungus,4:8:0,50,0
+Winged Kobold,3:6:-3,50,0
+Darkmantle,5:6:5,100,1
+Deep Gnome,3:6:6,100,1
+Gas Spore,1:10:-4,100,1
+Gray Ooze,3:8:9,100,1
+Hobgoblin,2:8:2,100,1
+Magma Mephit,5:6:5,100,1
+Myconid Adult,4:8:4,100,1
+Orc,2:8:6,100,1
+Piercer,3:8:9,100,1
+Rust Monster,5:8:5,100,1
+Scout,3:8:3,100,1
+Shadow,3:8:3,100,1
+Swarm of Insects,5:8:0,100,1
+Bugbear,5:8:5,200,1
+Duergar,4:8:8,200,1
+Fire Snake,5:8:0,200,1
+Ghoul,5:8:0,200,1
+Giant Spider,4:10:4,200,1
+Giant Toad,6:10:6,200,1
+Goblin Boss,6:6:0,200,1
+Half-Ogre,4:10:8,200,1
+Kou-toa Whip,10:8:20,200,1
+Quaggoth Spore Servant,6:8:18,200,1
+Specetor,5:8:0,200,1
+Carrion Crawler,6:10:18,450,2
+Druid,5:8:5,450,2
+Gargoyle,7:8:21,450,2
+Gelatinous Cube,8:10:40,450,2
+Ghast,8:8:0,450,2
+Giant Constrictor Snake,8:12:8,450,2
+Gibbering Mouther,9:8:27,450,2
+Grick,6:8:0,450,2
+Intellect Devourer,6:4:6,450,2
+Mimic,9:8:15,450,2
+Minotuar Skeleton,9:10:18,450,2
+Nothic,6:8:18,450,2
+Ochre Jelly,6:10:12,450,2
+Ogre,7:10:21,450,2
+Orc Eye of Gruumsh,6:8:18,450,2
+Orog,5:8:20,450,2
+Polar Bear,5:10:15,450,2
+Quaggoth,6:8:18,450,2
+Doppelganger,8:8:16,700,3
+Grell,10:8:10,700,3
+Hobgoblin Captain,6:8:12,700,3
+Hell Hound,7:8:14,700,3
+Hook Horror,10:10:20,700,3
+Kuo-toa Monitor,4:8:0,700,3
+Minotaur,9:10:27,700,3
+Quaggoth Thonot,6:8:18,700,3
+Phase Spider,5:10:5,700,3
+Spectator,6:8:12,700,3
+Veteran,9:8:18,700,3
+Water Weird,9:10:9,700,3
+Wight,6:8:18,700,3
+Black Pudding,10:10:30,1100,4
+Bone Naga,9:10:9,1100,4
+Chuul,11:10:30,1100,4
+Ettin,10:10:30,1100,4
+Flameskull,9:4:18,1100,4
+Ghost,10:8:0,1100,4
+Beholder Zombie,11:10:33,1800,5
+Drow Elite Warrior,11:8:22,1800,5
+Earth Elemental,12:10:60,1800,5
+Otyugh,12:10:48,1800,5
+Roper,11:10:33,1800,5
+Salamander,12:10:24,1800,5
+Troll,8:10:40,1800,5
+Umber Hulk,11:10:33,1800,5
+Vampire Spawn,11:8:33,1800,5
+Wraith,9:8:27,1800,5
+Xorn,7:8:42,1800,5
+Chimera,12:10:48,2300,6
+Cyclops,12:12:60,2300,6
+Drider,13:10:52,2300,6
+Drow Mage,10:8:0,2900,7
+Grick Alpha,10:10:20,2900,7
+Mind Flayer,13:8:13,2900,7
+Stone Giant,11:12:55,2900,7
+Cloaker,12:10:12,3900,8
+Fomorian,13:12:65,3900,8
+Mind Flayer Arcanist,13:8:13,3900,8
+Spirit Naga,10:10:20,3900,8
+Fire Giant,13:12:78,5000,9
+Aboleth,18:10:36,5900,10
+Behir,16:12:64,7200,11
+Dao,15:10:105,7200,11
+Beholder,19:10:76,10000,13
+Young Red Shadow Dragon,17:10:85,10000,13
+Death Tyrant,25:10:50,11500,14
+Purple Worm,15:20:90,13000,15

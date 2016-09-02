@@ -1,0 +1,79 @@
+Cat,1:4:0,10,0
+Commoner,1:8:0,10,0
+Goat,1:8:0,10,0
+Rat,1:4:-1,10,0
+Raven,1:4:-1,10,0
+Bandit,2:8:2,25,0
+Cultist,2:8:0,25,0
+Flying Snake,2:4:0,25,0
+Giant Rat,2:6:0,25,0
+Guard,2:8:2,25,0
+Kobold,2:6:-2,25,0
+Mastiff,1:8:1,25,0
+Mule,2:8:2,25,0
+Noble,2:8:0,25,0
+Pony,2:8:2,25,0
+Stirge,1:4:0,25,0
+Acolyte,2:8:0,50,0
+Draft Horse,3:10:3,50,0
+Giant Centipede,1:6:1,50,0
+Giant Poisonous Snake,2:8:2,50,0
+Kenku,3:8:0,50,0
+Pseudodragon,2:4:2,50,0
+Riding Horse,2:10:2,50,0
+Skeleton,2:8:4,50,0
+Smoke Mephit,5:6:5,50,0
+Swarm of Bats,5:8:0,50,0
+Swarm of Rats,7:8:-7,50,0
+Swarm of Ravens,7:8:-7,50,0
+Winged Kobold,3:6:-3,50,0
+Zombie,3:8:9,50,0
+Crocodile,3:10:3,100,1
+Giant Wasp,3:8:0,100,1
+Shadow,3:8:3,100,1
+Swarm of Insects,5:8:0,100,1
+Thug,5:8:10,100,1
+Warhorse,3:10:3,100,1
+Ghoul,5:8:0,200,1
+Giant Spider,4:10:4,200,1
+Half-Ogre,4:10:8,200,1
+Specetor,5:8:0,200,1
+Spy,6:8:0,200,1
+Yuan-ti Pureblood,9:8:0,200,1
+Bandit Captian,10:8:20,450,2
+Cult Fantic,6:8:6,450,2
+Gargoyle,7:8:21,450,2
+Ghast,8:8:0,450,2
+Mimic,9:8:15,450,2
+Priest,5:8:5,450,2
+Wererat,6:8:6,450,2
+Will-o'-wisp,9:4:0,450,2
+Doppelganger,8:8:16,700,3
+Knight,8:8:16,700,3
+Phase Spider,5:10:5,700,3
+Veteran,9:8:18,700,3
+Water Weird,9:10:9,700,3
+Wight,6:8:18,700,3
+Couatl,13:8:39,1100,4
+Ghost,10:8:0,1100,4
+Succubus,12:8:12,1100,4
+Incubus,12:8:12,1100,4
+Cambion,11:8:33,1800,5
+Gladiator,15:8:45,1800,5
+Revenant,16:8:64,1800,5
+Vampire Spawn,11:8:33,1800,5
+Invisible Stalker,16:8:32,2300,6
+Mage,9:8:0,2300,6
+Oni,13:10:39,2900,7
+Shield Guardian,15:10:60,2900,7
+Assassin,12:8:24,3900,8
+Gray Slaad,17:8:51,5000,9
+Young Silver Dragon,16:10:80,5000,9
+Archmage,18:8:18,8400,12
+Rakshasa,13:8:52,10000,13
+Vampire,17:8:68,10000,13
+Spellcaster Vampire,17:8:68,13000,15
+Warrior Vampire,17:8:68,13000,15
+Adult Silver Dragon,18:12:126,15000,16
+Ancient Silver Dragon,25:20:225,32500,23
+Tarrasque,33:20:330,155000,30
